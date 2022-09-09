@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.profile-picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 5%;
+    height: auto;
+    max-width: 300px;
+
+    border-radius: 50%;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 0%;
+    margin-bottom: 5%;
+    height: auto;
+    max-width: 300px;
+    zoom: 150%;
+
+}
+
+
+.profile-name {
+    text-align: center;
+
+    padding: 30px;
+    font-size: 20px;
+
+    color: white;
+}
+
+
+.Links {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid goldenrod;
+    border-width: 2px;
+    padding: 20px;
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 10px;
+
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+
+    color: white;
+    transition: color 1s;
+}
+
+a:hover {
+    color: black;
+
+    background-color: white;
+}
