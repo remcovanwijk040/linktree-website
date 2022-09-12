@@ -28,6 +28,7 @@ body{
     height: auto;
     max-width: 300px;
     zoom: 150%;
+    object-fit: contain;
 
 }
 
