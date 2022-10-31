@@ -1,12 +1,10 @@
-body{
+body {
     background-color: black;
     color: white;
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
     letter-spacing: 2px;
 }
-
-test
 
 .profile-picture{
     display: block;
@@ -15,7 +13,7 @@ test
 
     margin-top: 5%;
     height: auto;
-    max-width: 300px;
+    max-width: 90%;
 
     border-radius: 50%;
 }
